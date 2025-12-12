@@ -1,0 +1,9 @@
+product_name,demand,ordering_cost,holding_cost
+Laptops (Model X1),1200,50,10
+Monitor 24 inch,5000,10,2
+Wireless Mouse,18000,5,1
+Server RAM Module,800,75,15
+External SSD 1TB,3600,25,5
+High-Speed Router,900,45,9
+Ergonomic Keyboard,2500,15,3
+Webcam 4K,4000,20,4
